@@ -1,0 +1,37 @@
+#基础配置
+server:
+  port: 8090
+application:
+  title: 光汇云油支付系统
+  version: 1.0
+spring:
+  application:
+    name: pay-route-provider
+  datasource:
+     url: jdbc:mysql://pay.db.brightoilonline.com:33068/pay?useUnicode=true&characterEncoding=UTF-8
+     driverClassName: com.mysql.jdbc.Driver
+     username: pay
+     password: At31321kOp110712Mq$s-uYLIc
+  jpa:
+    show-sql: false
+  redis:
+    host: redis02.ys.brightoilonline.com
+    port: 6379
+     #password: a123
+pay:
+  sign:
+    check: true
+    privateKey: MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBALoitZ2wAjecN74gQqxONinJQI1+9kiqujMmi2ngbQbTNd+t0eZ007AG1qpwXp7qaXUnWfLcAV2vT3sOAVDUDPSUbdRJ0E1ELgx0N8PcQhBvrvoQd/EIEMc48faWD0JFUBfNTKoVUyk5671rE4Y2dvjVDC9/s6eo8JgMy5aXuUSNAgMBAAECgYAFLXf91eqJ33eRe1Y/csGA8g8woGp7ZPxe9eCE5nBB81gZS719+pv01ovcG9oV85FRZ/HRlpsXHwxH8QDKXcuqadTkR2xMDpVrC4HecYb8OxQ9TZ2OK45hWLAQmR+7lbzEHm8JjfguAyTAXY9zHg5OZ7Z01qBNkWB8HwFtaXxrwQJBAOtITXp8fmhoD+aFjBUDoDMqLrj5Aaeh2qo0r/BIWTXWBlHe7CwOQOhQVUBG9StEiwWdgXpykVe9+I96gwNVZt0CQQDKhov2JR5bfvtwx7XTroipbLo63lDRZoMWMcp7miegEXg/TbnWfTi9EUt54synkvqELrUrti1Aerulit/GIAFxAkA0bQDumQzloMJiQEGtcQhiPjT4/GsU+iiqImFNriFKsKzp0z1Wt7pYyYWlc+ovQO+lSapPKXYfUfIvrkHBHWd1AkEAmQqbcWITUqjecRc5e8EEXKNhB2NARzzkCj2N+WFAWGFbMNsXd9Igsh8DnhOY+3jB/mkdVu7Pu04DxtDu0NUWwQJBALn0z0sVYmM117jmVb8LppMlGJuPn+3WBR/C7O0WjmAjN0jv2SDjPD5MDJ2R/MeztE3xMzFFANI3ltWU8XakkGM=
+    publicKey: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6IrWdsAI3nDe+IEKsTjYpyUCNfvZIqrozJotp4G0G0zXfrdHmdNOwBtaqcF6e6ml1J1ny3AFdr097DgFQ1Az0lG3USdBNRC4MdDfD3EIQb676EHfxCBDHOPH2lg9CRVAXzUyqFVMpOeu9axOGNnb41Qwvf7OnqPCYDMuWl7lEjQIDAQAB
+  import:
+    appid: 20171227123540321456789
+    user: pay
+    url: jdbc:mysql://c2b.db.brightoilonline.com:33068/c2b?useUnicode=true&characterEncoding=utf8
+    password: payLJpxzhaomuzicHjva4FxWnirf6
+logging:
+  level:
+    org:
+      springframework: INFO
+    com:
+      bwoil: DEBUG
+

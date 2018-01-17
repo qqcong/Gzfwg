@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body,.main{
+    height: 100%;
+}
+
+.f12 {
+    font-size: 12px;
+}
+
+.f13 {
+    font-size: 13px;
+}
+
+.f14 {
+    font-size: 14px;
+}
+
+.f15 {
+    font-size: 15px;
+} 
+
+.t-a-l {
+    text-align: left;
+}
+
+
+.el-table .odd-row {
+    background: #f2f3ef;
+}
+
+.el-table .even-row {
+    background: #423c28 !important;
+}
+
+.f-r {
+    float: right;
+}
+
+.m-r-15 {
+    margin-right: 15px;
+}
+
+.f-20 {
+    font-size: 20px;
+}
+
+.bingcard-form-inline .el-input {
+    width: 160px;
+}
+
+.bingcard-form-inline .bingcard-cardNo .el-input {
+    width: 200px;
+}
+
+.appuser-form-inline .el-input {
+    width: 300px;
+}
+
+.el-menu .is-active {
+    background-color: #333 !important;
+}
+

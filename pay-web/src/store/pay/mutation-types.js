@@ -1,0 +1,2 @@
+export const ASSIGN_MESSAGE_TEXT = 'ASSIGN_MESSAGE_TEXT';//设置提示信息
+export const SET_LOGIN_USERNAME = 'SET_LOGIN_USERNAME';//设置登录用户名

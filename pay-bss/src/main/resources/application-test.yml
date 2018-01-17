@@ -1,0 +1,19 @@
+#基础配置
+server:
+  port: 8099
+  contextPath: /paybss
+  session:
+    timeout: 600
+spring:
+  application:
+     name: pay-bss
+  datasource:
+     url: jdbc:mysql://192.168.101.78:3306/bec-pay?useUnicode=true&characterEncoding=UTF-8
+     driverClassName: com.mysql.jdbc.Driver
+     username: root
+     password: 123456
+  jpa:
+#    hibernate:
+#     ddl-auto: none
+    show-sql: true
+
