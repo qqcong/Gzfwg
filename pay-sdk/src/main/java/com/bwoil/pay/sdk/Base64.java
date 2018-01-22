@@ -1,8 +1,8 @@
 
-package com.bwoil.pay.sdk;
+package com.bbbbb.pay.sdk;
 
 /**
- * @author chendx
+ * 
  * @version 1.0 created at 2017年5月25日 下午2:45:23
  *
  */

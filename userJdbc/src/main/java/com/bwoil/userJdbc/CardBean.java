@@ -1,4 +1,4 @@
-package com.bwoil.userJdbc;
+package com.bbbbb.userJdbc;
 
 public class CardBean {
 	

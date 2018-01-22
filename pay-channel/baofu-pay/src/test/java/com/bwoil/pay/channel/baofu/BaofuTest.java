@@ -1,4 +1,4 @@
-package com.bwoil.pay.channel.baofu;
+package com.bbbbb.pay.channel.baofu;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,21 +8,21 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-import com.bwoil.pay.channel.baofu.request.*;
-import com.bwoil.pay.common.pay.result.CardInfoResult;
-import com.bwoil.pay.common.util.SerialNumberUtils;
+import com.bbbbb.pay.channel.baofu.request.*;
+import com.bbbbb.pay.common.pay.result.CardInfoResult;
+import com.bbbbb.pay.common.util.SerialNumberUtils;
 import org.junit.Test;
 
-import com.bwoil.common.framework.util.Base64;
-import com.bwoil.common.framework.util.JsonUtils;
-import com.bwoil.pay.channel.baofu.response.BaseResponse;
-import com.bwoil.pay.channel.baofu.response.BindResponse;
-import com.bwoil.pay.channel.baofu.response.PayResponse;
-import com.bwoil.pay.channel.baofu.response.PreBindResponse;
-import com.bwoil.pay.channel.baofu.response.PrePayResponse;
-import com.bwoil.pay.channel.baofu.response.QueryPayResponse;
-import com.bwoil.pay.common.constants.RefundType;
-import com.bwoil.pay.common.pay.PayException;
+import com.bbbbb.common.framework.util.Base64;
+import com.bbbbb.common.framework.util.JsonUtils;
+import com.bbbbb.pay.channel.baofu.response.BaseResponse;
+import com.bbbbb.pay.channel.baofu.response.BindResponse;
+import com.bbbbb.pay.channel.baofu.response.PayResponse;
+import com.bbbbb.pay.channel.baofu.response.PreBindResponse;
+import com.bbbbb.pay.channel.baofu.response.PrePayResponse;
+import com.bbbbb.pay.channel.baofu.response.QueryPayResponse;
+import com.bbbbb.pay.common.constants.RefundType;
+import com.bbbbb.pay.common.pay.PayException;
 
 public class BaofuTest {
 	

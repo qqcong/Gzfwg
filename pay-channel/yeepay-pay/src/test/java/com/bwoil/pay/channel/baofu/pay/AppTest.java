@@ -1,4 +1,4 @@
-package com.bwoil.pay.channel.baofu.pay;
+package com.bbbbb.pay.channel.baofu.pay;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

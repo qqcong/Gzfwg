@@ -1,4 +1,4 @@
-package com.bwoil.pay.route;
+package com.bbbbb.pay.route;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -6,24 +6,24 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.bwoil.common.framework.util.JsonUtils;
-import com.bwoil.pay.gateway.Startup;
-import com.bwoil.pay.gateway.form.bind.BindComfirmForm;
-import com.bwoil.pay.gateway.form.bind.BindSubmitForm;
-import com.bwoil.pay.gateway.form.bind.QueryBindForm;
-import com.bwoil.pay.gateway.form.bind.UnbindForm;
-import com.bwoil.pay.gateway.form.pay.FirstPayForm;
-import com.bwoil.pay.gateway.form.pay.PayComfirmForm;
-import com.bwoil.pay.gateway.form.pay.PaySubmitForm;
-import com.bwoil.pay.gateway.form.pay.QueryPayForm;
-import com.bwoil.pay.gateway.result.bind.BindCardInfo;
-import com.bwoil.pay.gateway.result.bind.BindComfirmResult;
-import com.bwoil.pay.gateway.result.bind.BindSubmitResult;
-import com.bwoil.pay.gateway.result.bind.UnbindResult;
-import com.bwoil.pay.gateway.result.pay.PayOrderInfo;
-import com.bwoil.pay.gateway.result.pay.PaySubmitResult;
-import com.bwoil.pay.gateway.service.BindService;
-import com.bwoil.pay.gateway.service.PayService;
+import com.bbbbb.common.framework.util.JsonUtils;
+import com.bbbbb.pay.gateway.Startup;
+import com.bbbbb.pay.gateway.form.bind.BindComfirmForm;
+import com.bbbbb.pay.gateway.form.bind.BindSubmitForm;
+import com.bbbbb.pay.gateway.form.bind.QueryBindForm;
+import com.bbbbb.pay.gateway.form.bind.UnbindForm;
+import com.bbbbb.pay.gateway.form.pay.FirstPayForm;
+import com.bbbbb.pay.gateway.form.pay.PayComfirmForm;
+import com.bbbbb.pay.gateway.form.pay.PaySubmitForm;
+import com.bbbbb.pay.gateway.form.pay.QueryPayForm;
+import com.bbbbb.pay.gateway.result.bind.BindCardInfo;
+import com.bbbbb.pay.gateway.result.bind.BindComfirmResult;
+import com.bbbbb.pay.gateway.result.bind.BindSubmitResult;
+import com.bbbbb.pay.gateway.result.bind.UnbindResult;
+import com.bbbbb.pay.gateway.result.pay.PayOrderInfo;
+import com.bbbbb.pay.gateway.result.pay.PaySubmitResult;
+import com.bbbbb.pay.gateway.service.BindService;
+import com.bbbbb.pay.gateway.service.PayService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes=Startup.class)

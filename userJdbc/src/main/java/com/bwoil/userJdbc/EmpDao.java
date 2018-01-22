@@ -1,10 +1,10 @@
-package com.bwoil.userJdbc;
+package com.bbbbb.userJdbc;
 
 import java.sql.*;   
 import java.util.ArrayList;
 import java.util.List;
 /**
- * @author wangwj
+ * 
  * @date 2017年12月15日 下午2:24:39
  */
 public class EmpDao {

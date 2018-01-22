@@ -1,4 +1,4 @@
-package com.bwoil.pay.route;
+package com.bbbbb.pay.route;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -11,17 +11,17 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.bwoil.common.framework.util.JsonUtils;
-import com.bwoil.pay.common.util.SerialNumberUtils;
-import com.bwoil.pay.gateway.Startup;
-import com.bwoil.pay.gateway.form.bank.BankListForm;
-import com.bwoil.pay.gateway.form.bind.BindSubmitForm;
-import com.bwoil.pay.gateway.result.bind.BindComfirmResult;
-import com.bwoil.pay.gateway.result.bind.BindSubmitResult;
-import com.bwoil.pay.gateway.service.BankService;
-import com.bwoil.pay.gateway.service.BindService;
-import com.bwoil.userJdbc.CardBean;
-import com.bwoil.userJdbc.DataImport;
+import com.bbbbb.common.framework.util.JsonUtils;
+import com.bbbbb.pay.common.util.SerialNumberUtils;
+import com.bbbbb.pay.gateway.Startup;
+import com.bbbbb.pay.gateway.form.bank.BankListForm;
+import com.bbbbb.pay.gateway.form.bind.BindSubmitForm;
+import com.bbbbb.pay.gateway.result.bind.BindComfirmResult;
+import com.bbbbb.pay.gateway.result.bind.BindSubmitResult;
+import com.bbbbb.pay.gateway.service.BankService;
+import com.bbbbb.pay.gateway.service.BindService;
+import com.bbbbb.userJdbc.CardBean;
+import com.bbbbb.userJdbc.DataImport;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Startup.class)

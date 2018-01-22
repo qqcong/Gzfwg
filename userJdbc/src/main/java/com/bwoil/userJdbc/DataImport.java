@@ -1,4 +1,4 @@
-package com.bwoil.userJdbc;
+package com.bbbbb.userJdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -18,7 +18,7 @@ public  abstract class DataImport {
 	private String driver = "com.mysql.jdbc.Driver";
 	private String url = "jdbc:mysql://192.168.101.61:3306/b2c_v3.4?characterEncoding=utf8";
 	private String user = "root";
-	private String password = "bwoil@20141030";
+	private String password = "bbbbb@20141030";
 
 	public  void execute(long lastlastmodify) throws Exception {
 		initConnection();

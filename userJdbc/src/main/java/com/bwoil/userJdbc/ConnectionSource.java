@@ -1,4 +1,4 @@
-package com.bwoil.userJdbc;
+package com.bbbbb.userJdbc;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import org.apache.commons.dbcp.BasicDataSource;
 
 /**
- * @author wangwj
+ * 
  * @date 2017年12月15日 下午3:40:11
  */
 public class ConnectionSource {

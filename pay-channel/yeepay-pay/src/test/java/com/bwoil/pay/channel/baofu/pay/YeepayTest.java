@@ -1,27 +1,27 @@
-package com.bwoil.pay.channel.baofu.pay;
+package com.bbbbb.pay.channel.baofu.pay;
 
 import java.util.HashMap;
 import java.util.Map;
 
 import org.junit.Test;
 
-import com.bwoil.common.framework.util.JsonUtils;
-import com.bwoil.pay.channel.yeepay.request.BindComfirmRequest;
-import com.bwoil.pay.channel.yeepay.request.DirectBindRequest;
-import com.bwoil.pay.channel.yeepay.request.PayComfirmRequest;
-import com.bwoil.pay.channel.yeepay.request.PreBindRequest;
-import com.bwoil.pay.channel.yeepay.request.PrePayRequest;
-import com.bwoil.pay.channel.yeepay.request.QueryBindRequest;
-import com.bwoil.pay.channel.yeepay.request.QueryCardRequest;
-import com.bwoil.pay.channel.yeepay.request.QueryPayRequest;
-import com.bwoil.pay.channel.yeepay.request.UnBindRequest;
-import com.bwoil.pay.channel.yeepay.response.BaseResponse;
-import com.bwoil.pay.channel.yeepay.response.BindResponse;
-import com.bwoil.pay.channel.yeepay.response.PayResponse;
-import com.bwoil.pay.channel.yeepay.response.PreBindResponse;
-import com.bwoil.pay.channel.yeepay.response.PrePayResponse;
-import com.bwoil.pay.channel.yeepay.response.QueryCarResponse;
-import com.bwoil.pay.common.pay.PayException;
+import com.bbbbb.common.framework.util.JsonUtils;
+import com.bbbbb.pay.channel.yeepay.request.BindComfirmRequest;
+import com.bbbbb.pay.channel.yeepay.request.DirectBindRequest;
+import com.bbbbb.pay.channel.yeepay.request.PayComfirmRequest;
+import com.bbbbb.pay.channel.yeepay.request.PreBindRequest;
+import com.bbbbb.pay.channel.yeepay.request.PrePayRequest;
+import com.bbbbb.pay.channel.yeepay.request.QueryBindRequest;
+import com.bbbbb.pay.channel.yeepay.request.QueryCardRequest;
+import com.bbbbb.pay.channel.yeepay.request.QueryPayRequest;
+import com.bbbbb.pay.channel.yeepay.request.UnBindRequest;
+import com.bbbbb.pay.channel.yeepay.response.BaseResponse;
+import com.bbbbb.pay.channel.yeepay.response.BindResponse;
+import com.bbbbb.pay.channel.yeepay.response.PayResponse;
+import com.bbbbb.pay.channel.yeepay.response.PreBindResponse;
+import com.bbbbb.pay.channel.yeepay.response.PrePayResponse;
+import com.bbbbb.pay.channel.yeepay.response.QueryCarResponse;
+import com.bbbbb.pay.common.pay.PayException;
 
 public class YeepayTest {
 	

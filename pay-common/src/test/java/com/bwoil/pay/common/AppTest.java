@@ -1,4 +1,4 @@
-package com.bwoil.pay.common;
+package com.bbbbb.pay.common;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package com.bwoil.pay.sdk;
+package com.bbbbb.pay.sdk;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
