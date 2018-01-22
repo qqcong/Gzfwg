@@ -3,11 +3,11 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.bwoil.pay</groupId>
-		<artifactId>bwoil-pay-system</artifactId>
+		<groupId>com.bbbbb.pay</groupId>
+		<artifactId>bbbbb-pay-system</artifactId>
 		<version>1.0.0</version>
 	</parent>
-	<groupId>com.bwoil.pay.sdk</groupId>
+	<groupId>com.bbbbb.pay.sdk</groupId>
 	<artifactId>pay-sdk</artifactId>
 	<name>pay-sdk</name>
 	<version>1.0.4</version>

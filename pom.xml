@@ -3,11 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.bwoil.pay</groupId>
-	<artifactId>bwoil-pay-system</artifactId>
+	<groupId>com.bbbbb.pay</groupId>
+	<artifactId>bbbbb-pay-system</artifactId>
 	<version>1.0.0</version>
 	<packaging>pom</packaging>
-	<name>bwoil-pay-system</name>
+	<name>bbbbb-pay-system</name>
 
 	<properties>
 		<spring.boot.version>1.5.8.RELEASE</spring.boot.version>
@@ -37,7 +37,7 @@
 			</dependency>
 			<!-- 内部封装框架 -->
 			<dependency>
-				<groupId>com.bwoil.common</groupId>
+				<groupId>com.bbbbb.common</groupId>
 				<artifactId>framework</artifactId>
 				<version>${framework.version}</version>
 			</dependency>

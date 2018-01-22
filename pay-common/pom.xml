@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.bwoil.pay</groupId>
-    <artifactId>bwoil-pay-system</artifactId>
+    <groupId>com.bbbbb.pay</groupId>
+    <artifactId>bbbbb-pay-system</artifactId>
     <version>1.0.0</version>
   </parent>
   <artifactId>pay-common</artifactId>
@@ -20,7 +20,7 @@
           <artifactId>spring-boot-starter-data-jpa</artifactId>
       </dependency>
       <dependency>
-          <groupId>com.bwoil.common</groupId>
+          <groupId>com.bbbbb.common</groupId>
           <artifactId>framework</artifactId>
       </dependency>
   </dependencies>

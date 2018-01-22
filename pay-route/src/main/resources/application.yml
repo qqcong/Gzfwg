@@ -29,11 +29,11 @@ pay:
     appid: test
     user: root
     url: jdbc:mysql://192.168.101.61:3306/b2c_v3.4?characterEncoding=utf8
-    password: bwoil@20141030
+    password: bbbbb@20141030
 logging:
   level:
     org:
       springframework: INFO
     com:
-      bwoil: DEBUG
+      bbbbb: DEBUG
 

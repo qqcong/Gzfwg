@@ -78,7 +78,7 @@
 	</appenders>
 
     <loggers>
-		<logger name="com.bwoil" level="debug" additivity="false">
+		<logger name="com.bbbbb" level="debug" additivity="false">
 			<appender-ref ref="CONSOLE" />
 			<appender-ref ref="ASYNC_DEBUG" />
 			<appender-ref ref="ASYNC_INFO" />
