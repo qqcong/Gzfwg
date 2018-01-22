@@ -27,7 +27,7 @@ import java.util.Map;
 import static com.bbbbb.pay.channel.yeepay.request.BaseRequest.formatString;
 
 /**
- *  @author chendx
+ *  
  *  宝付支付回调
  *  目前无用
  */

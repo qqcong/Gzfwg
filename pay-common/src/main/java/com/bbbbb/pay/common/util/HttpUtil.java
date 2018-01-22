@@ -2,7 +2,6 @@
  * 
  */
 /**
- * @author Administrator
  *
  */
 package com.bbbbb.pay.common.util;

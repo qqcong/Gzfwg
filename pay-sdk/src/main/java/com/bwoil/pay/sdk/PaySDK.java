@@ -9,7 +9,6 @@ import com.alibaba.fastjson.JSONObject;
  * 新生支付 SDK
  * @ClassName: PaySDK 
  * @Description: TODO 
- * @author wuzf 
  * @date 2017年12月19日 下午5:05:54
  */
 public class PaySDK {

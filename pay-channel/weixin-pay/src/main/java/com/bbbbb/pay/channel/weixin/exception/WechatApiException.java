@@ -3,7 +3,7 @@ package com.bbbbb.pay.channel.weixin.exception;
 /**
  * 微信高级API请求异常
  * 
- * @author 陈道兴
+ * 
  * @since 2.0
  */
 public class WechatApiException extends Exception {

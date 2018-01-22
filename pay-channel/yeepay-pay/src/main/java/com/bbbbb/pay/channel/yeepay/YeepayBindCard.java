@@ -25,7 +25,7 @@ import com.bbbbb.pay.common.pay.result.CardInfoResult;
 import lombok.extern.apachecommons.CommonsLog;
 
 /**
- * @author chendx
+ * 
  * 易宝绑卡实现
  */
 @CommonsLog

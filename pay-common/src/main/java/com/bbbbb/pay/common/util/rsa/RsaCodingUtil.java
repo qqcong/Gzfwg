@@ -23,7 +23,7 @@ import javax.crypto.NoSuchPaddingException;
  * 私钥采用PKCS12加密方式的PFX私钥文件<br>
  * 加密算法为1024位的RSA，填充算法为PKCS1Padding<br>
  * 
- * @author 行者
+ * 
  * @version 4.1.0
  */
 @CommonsLog

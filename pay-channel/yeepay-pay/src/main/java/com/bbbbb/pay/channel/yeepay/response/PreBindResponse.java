@@ -3,7 +3,7 @@ package com.bbbbb.pay.channel.yeepay.response;
 import com.bbbbb.pay.common.pay.PayException;
 
 /**
- * @author chendx
+ * 
  * 预绑卡
  */
 public class PreBindResponse extends  BaseResponse{

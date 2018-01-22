@@ -8,7 +8,7 @@ import lombok.extern.apachecommons.CommonsLog;
 import java.util.Map;
 
 /**
- * @author chendx
+ * 
  * 绑卡确认
  */
 @CommonsLog

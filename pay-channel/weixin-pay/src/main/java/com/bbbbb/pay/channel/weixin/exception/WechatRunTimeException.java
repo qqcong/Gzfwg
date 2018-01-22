@@ -3,7 +3,7 @@ package com.bbbbb.pay.channel.weixin.exception;
 /**
  * 与微信服务交互时异常
  * 
- * @author 陈道兴
+ * 
  * @since 2.0
  */
 public class WechatRunTimeException extends Exception {

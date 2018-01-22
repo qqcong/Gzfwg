@@ -6,7 +6,7 @@ import com.bbbbb.pay.common.pay.PayException;
 import java.util.Map;
 
 /**
- * @author chendx
+ * 
  * 解绑请求
  */
 public class UnBindRequest extends BaseRequest {

@@ -16,7 +16,7 @@ import java.net.URL;
 /**
  * Http工具包，用于访问API，上传或下载微信素材
  * 
- * @author 陈道兴
+ * 
  * @since 2.0
  */
 // TODO Http.disableJvmHttpsCheck();

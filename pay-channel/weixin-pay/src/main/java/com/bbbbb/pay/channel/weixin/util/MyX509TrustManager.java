@@ -8,7 +8,7 @@ import java.security.cert.X509Certificate;
 /**
  * 信任管理器
  * 
- * @author 陈道兴
+ * 
  * @date 2014-11-21下午9:15:08
  */
 public class MyX509TrustManager implements X509TrustManager {

@@ -10,7 +10,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * 输入流与字符串处理工具
  *
- * @author 陈道兴
+ * 
  * @since 1.0
  */
 @CommonsLog

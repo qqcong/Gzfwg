@@ -22,7 +22,7 @@ import com.bbbbb.pay.common.pay.result.PayResult;
 import lombok.extern.apachecommons.CommonsLog;
 
 /**
- * @author chendx
+ * 
  * 宝付投资通快捷支付
  */
 @CommonsLog

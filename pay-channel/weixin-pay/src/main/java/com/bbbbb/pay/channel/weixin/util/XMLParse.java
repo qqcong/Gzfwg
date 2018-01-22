@@ -20,7 +20,7 @@ import java.util.*;
 /**
  * 提供提取消息格式中的密文及生成回复消息格式的接口.
  *
- * @author Tencent
+ * 
  * @since 2014/11/4
  */
 public class XMLParse {

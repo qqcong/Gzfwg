@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * @author chendx
+ * 
  * 绑卡请求
  */
 @CommonsLog

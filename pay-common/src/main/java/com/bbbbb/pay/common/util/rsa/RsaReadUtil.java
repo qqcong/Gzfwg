@@ -26,7 +26,7 @@ import sun.misc.BASE64Decoder;
  * <b>公私钥读取工具</b><br>
  * <br>
  * 
- * @author 行者
+ * 
  * @version 4.1.0
  */
 public final class RsaReadUtil {

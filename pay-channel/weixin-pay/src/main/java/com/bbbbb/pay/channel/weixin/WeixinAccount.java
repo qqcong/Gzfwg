@@ -3,7 +3,7 @@ package com.bbbbb.pay.channel.weixin;
 /**
  * 微信公众号信息
  * 
- * @author 陈道兴
+ * 
  * @since 2.0
  */
 
